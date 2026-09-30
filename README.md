@@ -1,50 +1,53 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/Tamilselvan3660">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Tamilselvan+👋;Full-Stack+Developer;Building+Node.js+%2B+React+%2B+SQL+Apps;Passionate+Problem+Solver" alt="Typing SVG" />
-  </a>
+  <h1>Hi there, I'm <span color="#6366f1">Tamilselvan</span> 👋</h1>
+  
+  <p align="center">
+    <b>Full-Stack Developer | Node.js • Express • React • SQL</b>
+  </p>
 
   <p align="center">
-    <b>Computer Science Student & Full-Stack Developer</b>
+    <i>Passionate about building functional, scalable web applications and clean REST APIs.</i>
   </p>
+
+  <br/>
 
   <!-- Quick Social & Status Badges -->
   <p align="center">
     <a href="mailto:selvantamil84786@gmail.com"><img src="https://img.shields.io/badge/Email-selvantamil84786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/Tamilselvan3660"><img src="https://img.shields.io/badge/GitHub-Tamilselvan3660-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Internships-00C853?style=for-the-badge" alt="Status"/>
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Developer%20Roles-00C853?style=for-the-badge" alt="Status"/>
   </p>
 
 </div>
 
 ---
 
-### 💻 Interactive Tech Stack
+### 💻 Tech Stack & Frameworks
 
 <div align="center">
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![DOM APIs](https://img.shields.io/badge/DOM_APIs-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 | **Tools & APIs** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-007ACC?style=flat-square) |
 
 </div>
 
 ---
 
-### 🚀 Interactive Featured Projects
+### 🚀 Featured Projects
 
-Click on any project to expand its technical details and features:
+Click on any project below to expand technical details and system architecture:
 
 <details open>
-<summary><b>🎓 Findora AI — Campus Lost & Found Intelligence Platform</b> (<i>React 19 + Express + PostgreSQL/SQLite + Cloudinary</i>)</summary>
+<summary><b>🎓 Findora AI — Campus Lost & Found Platform</b> (<i>React 19 + Express + PostgreSQL/SQLite + Cloudinary</i>)</summary>
 
 <br/>
 
-> **Overview:** Autonomous campus lost & found solution featuring multimodal item correlation, ownership verification, dynamic image uploads, and automated email broadcasts.
+> **Overview:** Autonomous campus lost & found solution featuring item correlation, ownership verification, dynamic image uploads, and automated email broadcasts.
 
 * 🔐 **Authentication:** Bcrypt password hashing & JWT token validation.
 * 📸 **Media Pipeline:** Cloudinary file upload integration powered by Multer middleware.
@@ -96,20 +99,16 @@ Click on any project to expand its technical details and features:
 
 ---
 
-### 📊 Dynamic GitHub Activity & Metrics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tamilselvan3660&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tamilselvan's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan3660&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilselvan3660&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
 ---
 
-### ⚡ Direct Contact
+### 📬 Contact & Connectivity
 
 <div align="center">
   <a href="mailto:selvantamil84786@gmail.com">
