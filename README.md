@@ -1,63 +1,118 @@
-# Hi there, I'm Tamilselvan 👋
+<div align="center">
+
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/Tamilselvan3660">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Tamilselvan+👋;Full-Stack+Developer;Building+Node.js+%2B+React+%2B+SQL+Apps;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>Computer Science Student & Full-Stack Developer</b>
+  </p>
+
+  <!-- Quick Social & Status Badges -->
+  <p align="center">
+    <a href="mailto:selvantamil84786@gmail.com"><img src="https://img.shields.io/badge/Email-selvantamil84786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/Tamilselvan3660"><img src="https://img.shields.io/badge/GitHub-Tamilselvan3660-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Internships-00C853?style=for-the-badge" alt="Status"/>
+  </p>
+
+</div>
+
+---
+
+### 💻 Interactive Tech Stack
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Tools & APIs** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-007ACC?style=flat-square) |
+
+</div>
+
+---
+
+### 🚀 Interactive Featured Projects
+
+Click on any project to expand its technical details and features:
+
+<details open>
+<summary><b>🎓 Findora AI — Campus Lost & Found Intelligence Platform</b> (<i>React 19 + Express + PostgreSQL/SQLite + Cloudinary</i>)</summary>
+
+<br/>
+
+> **Overview:** Autonomous campus lost & found solution featuring multimodal item correlation, ownership verification, dynamic image uploads, and automated email broadcasts.
+
+* 🔐 **Authentication:** Bcrypt password hashing & JWT token validation.
+* 📸 **Media Pipeline:** Cloudinary file upload integration powered by Multer middleware.
+* 📧 **Broadcasting:** Automated notification emails dispatched via Nodemailer.
+* 🔗 **Repository:** [findora-ai on GitHub](https://github.com/Tamilselvan3660/findora-ai)
 
 ```text
-Full-Stack Developer | Node.js • Express • React • SQL • Python • Java
+[ React 19 Frontend ] ──HTTP/JWT──► [ Express 5 REST API ] ──► [ PostgreSQL / SQLite ]
+                                          │
+                                          ├──► [ Cloudinary Media Storage ]
+                                          └──► [ Nodemailer Broadcast Engine ]
 ```
+</details>
 
-I am a passionate software developer focused on building functional, responsive web applications and reliable backend services. I enjoy solving real-world problems through clean code, structured database design, and modern JavaScript frameworks.
+<details>
+<summary><b>🚑 Emergency Response Network</b> (<i>Node.js Routing Engine & Traffic Simulator</i>)</summary>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Skills
+> **Overview:** Intelligent dispatch and traffic estimation routing simulation platform designed for emergency vehicle navigation.
 
-**Languages:**  
-`JavaScript (ES6+)` • `Python` • `Java` • `SQL` • `HTML5` • `CSS3`
+* 🚦 **Routing Engine:** Real-time route optimization considering dynamic congestion metrics.
+* 🧪 **Automated Testing:** Integrated unit & smoke test suite (`smoke.test.js`).
+* 🔗 **Repository:** [emergency-response-network on GitHub](https://github.com/Tamilselvan3660/emergency-response-network)
+</details>
 
-**Frontend Development:**  
-`React 19` • `Vite` • `Tailwind CSS` • `DOM Manipulation` • `Responsive Design`
+<details>
+<summary><b>🎬 Movie Ticket Booking App</b> (<i>Express + SQL Schema + Dynamic Seat Grid</i>)</summary>
 
-**Backend & Databases:**  
-`Node.js` • `Express.js` • `RESTful APIs` • `PostgreSQL` • `SQLite` • `JWT Auth`
+<br/>
 
-**Tools & Environment:**  
-`Git` • `GitHub` • `VS Code` • `Postman` • `npm` • `Cloudinary`
+> **Overview:** Relational database-backed movie ticket booking app with interactive seat reservation and authentication.
 
----
+* 🗄️ **Database:** Custom relational schema (`schema.sql`) handling Users, Movies, Shows, and Bookings.
+* 🎟️ **Seat Matrix:** Dynamic DOM-rendered seat grid tracking real-time availability.
+* 🔗 **Repository:** [movie-ticket-booking-app on GitHub](https://github.com/Tamilselvan3660/movie-ticket-booking-app)
+</details>
 
-### 🚀 Featured Projects
+<details>
+<summary><b>🏛️ AICTE Process Portal</b> (<i>Institutional Workflow Engine</i>)</summary>
 
-#### 🎓 [Findora AI — Campus Lost & Found Platform](https://github.com/Tamilselvan3660/findora-ai)
-* **Description:** Autonomous lost & found intelligence application featuring multimodal item correlation, ownership verification, and media management.
-* **Stack:** React 19, Vite, Node.js, Express, PostgreSQL / SQLite, Cloudinary API, Nodemailer, Tailwind CSS.
-* **Key Features:** Secure JWT user authentication, dynamic image uploads, email notifications, and administrative matching dashboard.
+<br/>
 
-#### 🚑 [AI Emergency Response Network](https://github.com/Tamilselvan3660/emergency-response-network)
-* **Description:** Emergency vehicle dispatch and traffic estimation routing simulation system.
-* **Stack:** Node.js, Express, JavaScript, Tailwind CSS, Automated Smoke Testing.
-* **Key Features:** Algorithmic route evaluation, payload validation, traffic congestion estimation, and automated API smoke test suite.
+> **Overview:** Web-based document verification and process management portal for educational institutions.
 
-#### 🎬 [Movie Ticket Booking Management App](https://github.com/Tamilselvan3660/movie-ticket-booking-app)
-* **Description:** Relational database-backed movie ticket booking system with interactive seat selection.
-* **Stack:** Node.js, Express, SQL (PostgreSQL/MySQL schema), HTML5, CSS3, Bcrypt security.
-* **Key Features:** Custom database relational schema (`schema.sql`), password hashing, real-time seat availability tracking, and booking confirmations.
-
-#### 🏛️ [AICTE Institutional Process Portal](https://github.com/Tamilselvan3660/aicte-process-portal)
-* **Description:** Web-based document verification and process management portal for educational institutions.
-* **Stack:** Node.js, Express, Dynamic JavaScript, Custom CSS.
-* **Key Features:** Multi-step institution application forms, document compliance workflow, user auth system, and support request tracking.
+* 📋 **Workflows:** Multi-step compliance forms, support tickets, and institutional verification dashboards.
+* 🔗 **Repository:** [aicte-process-portal on GitHub](https://github.com/Tamilselvan3660/aicte-process-portal)
+</details>
 
 ---
 
-### 🎯 Currently Focus & Learning
+### 📊 Dynamic GitHub Activity & Metrics
 
-* 📖 **Deepening Knowledge:** Advanced Data Structures & Algorithms in Java.
-* ⚡ **Backend Engineering:** Microservices architecture, Docker basics, and advanced SQL query optimization.
-* 🌐 **Open Source:** Looking to contribute to beginner-friendly JavaScript & Node.js open-source projects.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamilselvan3660&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tamilselvan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan3660&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilselvan3660&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
 
 ---
 
-### 📬 Connect With Me
+### ⚡ Direct Contact
 
-* 📧 **Email:** [selvantamil84786@gmail.com](mailto:selvantamil84786@gmail.com)
-* 💼 **GitHub:** [github.com/Tamilselvan3660](https://github.com/Tamilselvan3660)
-* 🌐 **Location:** India
+<div align="center">
+  <a href="mailto:selvantamil84786@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-selvantamil84786%40gmail.com-blue?style=for-the-badge&logo=mail.ru" alt="Direct Email" />
+  </a>
+</div>
