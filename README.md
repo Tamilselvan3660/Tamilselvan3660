@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <i>Passionate about building functional, scalable web applications and clean REST APIs.</i>
+    <i>Building real-world web applications, REST APIs & reliable backend architectures.</i>
   </p>
 
   <br/>
@@ -16,10 +16,42 @@
   <p align="center">
     <a href="mailto:selvantamil84786@gmail.com"><img src="https://img.shields.io/badge/Email-selvantamil84786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/Tamilselvan3660"><img src="https://img.shields.io/badge/GitHub-Tamilselvan3660-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Developer%20Roles-00C853?style=for-the-badge" alt="Status"/>
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Internships-00C853?style=for-the-badge" alt="Status"/>
   </p>
 
 </div>
+
+---
+
+### ⚡ Interactive Developer Bio & Quick Facts
+
+<details open>
+<summary><b>👤 About Me & Core Focus</b> (Click to expand)</summary>
+
+<br/>
+
+- 💻 **Core Expertise:** Full-Stack Web Development with **Node.js, Express.js, React 19, and SQL (PostgreSQL / SQLite)**.
+- 🎓 **Education & Background:** Computer Science Student focused on software engineering fundamentals, database normalization, and RESTful API architecture.
+- 🚀 **Featured Project:** Building **[FINDORA AI](https://github.com/Tamilselvan3660/findora-ai)** — Campus Lost & Found Intelligence Platform with JWT auth & Cloudinary media integration.
+- ⚡ **Engineering Principles:** Clean code, modular backend design, automated testing, and zero-hype, truthful implementations.
+- 🎯 **Current Focus:** Deepening knowledge in System Design, Microservices, and Advanced Data Structures in Java.
+
+</details>
+
+<details>
+<summary><b>📊 Quick Status & Tech Stack Matrix</b> (Click to expand)</summary>
+
+<br/>
+
+| Category | Technical Focus |
+| :--- | :--- |
+| 🟢 **Availability** | Open for Junior Software Developer Roles & Full-Stack Internships |
+| 🛠️ **Primary Backend** | Node.js, Express.js (v5), REST APIs, JWT Auth, Bcrypt |
+| 🎨 **Primary Frontend** | React 19, Vite, Tailwind CSS v4, HTML5/CSS3, DOM Manipulation |
+| 🗄️ **Databases** | PostgreSQL, SQLite, Relational SQL Schemas (`schema.sql`) |
+| 🛠️ **Dev Tools** | Git, GitHub CLI, Cloudinary API, Nodemailer, Postman, VS Code |
+
+</details>
 
 ---
 
